@@ -1,0 +1,16 @@
+https://stackoverflow.com/questions/53117988/sequelize-select-and-include-another-table-alias
+https://stackoverflow.com/questions/35822800/sequelize-how-do-i-fix-datatypes-is-not-defined
+https://www.youtube.com/watch?v=x-eOAYpsy7M
+https://medium.com/@nico26deo/membuat-restful-api-dengan-express-js-sequelize-js-dan-postgresql-cb14d045cefd
+https://www.npmjs.com/package/touch-cli
+https://stackoverflow.com/questions/30401460/postgres-psql-not-recognized-as-an-internal-or-external-command
+https://stackoverflow.com/questions/62275266/not-able-to-create-enum-type-attribute-using-sequelize-cli
+https://github.com/sequelize/cli/blob/main/docs/FAQ.md
+https://www.djamware.com/post/5b56a6cc80aca707dd4f65a9/nodejs-expressjs-sequelizejs-and-postgresql-restful-api
+https://sequelize.org/docs/v6/advanced-association-concepts/creating-with-associations/
+https://stackoverflow.com/questions/53117988/sequelize-select-and-include-another-table-alias
+https://www.postgresqltutorial.com/postgresql-administration/postgresql-reset-password/
+https://chat.openai.com/share/d9386f4f-968e-4ad3-93e9-d8e3ea833a6d
+https://chat.openai.com/share/6edd5c3c-4632-440c-9402-1701507ac44d
+https://chat.openai.com/share/72cc1f21-d28c-47c5-8872-94702b4f1984
+https://chat.openai.com/share/84fb4cbe-1fc0-4e94-a5d6-d31187c26389
