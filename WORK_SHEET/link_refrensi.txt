@@ -14,3 +14,6 @@ https://chat.openai.com/share/d9386f4f-968e-4ad3-93e9-d8e3ea833a6d
 https://chat.openai.com/share/6edd5c3c-4632-440c-9402-1701507ac44d
 https://chat.openai.com/share/72cc1f21-d28c-47c5-8872-94702b4f1984
 https://chat.openai.com/share/84fb4cbe-1fc0-4e94-a5d6-d31187c26389
+https://hub.docker.com/_/node/
+https://chat.openai.com/share/2485be88-7d2c-4c4f-a1cd-5778c60da092
+https://www.youtube.com/watch?v=cAFGcfIyKgI

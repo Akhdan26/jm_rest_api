@@ -2,8 +2,8 @@
   "development": {
     "username": "jmadmin",
     "password": "jasamarga123",
-    "database": "data_kepegawaian",
-    "host": "127.0.0.1",
+    "database": "data_kepegawaian_docker",
+    "host": "host.docker.internal",
     "dialect": "postgres"
   },
   "test": {
