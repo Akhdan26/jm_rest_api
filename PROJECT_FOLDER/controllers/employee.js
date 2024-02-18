@@ -182,7 +182,7 @@ module.exports = {
         return res.status(404).json({ message: "Employee not found" });
       }
       await employee.destroy();
-      return res.status(204).json({ message: "Employee deleted" });
+      return res.json({ message: "Delete data is success" });
     } catch (error) {
       return res.status(500).json({ message: error.message });
     }

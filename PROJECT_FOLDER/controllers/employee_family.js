@@ -54,7 +54,7 @@ module.exports = {
         return res.status(404).json({ message: "Employee family not found" });
       }
       await employeeFamily.destroy();
-      return res.status(204).end();
+      return res.json({ message: "Delete data is success" });
     } catch (error) {
       return res.status(500).json({ message: error.message });
     }
